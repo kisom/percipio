@@ -1,0 +1,12 @@
+datasheets README
+=================
+
+TC74HC00AP(F).pdf: Toshiba TC74HC00AP(F) quad two-input NAND gate
+74F00.pdf: NXP N74F00N,602 quad two-input NAND gate
+sn74hc10.pdf: TI SN74HC10N triple three-input NAND gate
+74HC_HCT20_CNV.pdf: NXP 74HC20N,652 dual four-input NAND gate
+
+the NAND gates are currently being evaluated to determine which is the best
+to use for the machine.
+
+

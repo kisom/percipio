@@ -1,0 +1,42 @@
+percipio
+========
+
+background:
+-----------
+this is a homebrew computer based on my reading of the elements of computing
+systems. the book encourages the reader to work through projects to design the
+computer and simulate it using their hardware simulator. i've decided to take
+it a step further and build a physical copy.
+
+i've named this project percipio - the latin word for understanding. this is
+not going to end up as a high-performance machine; it is solely for me to
+glimpse into the core of what it means to compute.
+
+my end goals hardware-wise are to build a basic 16-bit system with a tty output 
+(preferably a monitor, we shall see) and keyboard input. my end goals software-
+wise are to write a scheme interpreter and possibly a C compiler.
+
+i envision developing the following skills over the course of this projects:
+	* digital logic
+	* pcb layout 
+	* operating system design
+	* interpreter design
+	* compiler design
+
+in order to develop these skills, i am starting from the beginnings of computer
+design (the NAND gate) and going from the ground up.
+
+ex genesis, scientia!
+
+
+timeline:
+---------
+2011-05-01: begin reading tecs and decide to actually build the computer
+2011-05-02: begin working on chapter 1
+
+
+datasheets:
+-----------
+this directory contains the datasheets for the various components that are 
+used (or that are planning to be used).
+
