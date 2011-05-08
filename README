@@ -40,3 +40,7 @@ datasheets:
 this directory contains the datasheets for the various components that are 
 used (or that are planning to be used).
 
+
+schematics:
+-----------
+hand-drawn and CAD/EDA schematics.
